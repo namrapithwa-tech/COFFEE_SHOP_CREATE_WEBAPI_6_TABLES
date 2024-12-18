@@ -1,0 +1,6 @@
+@Coffee_Shop_Create_WebAPI_6_Tables_HostAddress = http://localhost:5108
+
+GET {{Coffee_Shop_Create_WebAPI_6_Tables_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
