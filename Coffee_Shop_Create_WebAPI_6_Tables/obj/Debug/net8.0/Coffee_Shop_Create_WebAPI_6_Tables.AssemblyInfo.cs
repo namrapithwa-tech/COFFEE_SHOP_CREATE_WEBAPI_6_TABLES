@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coffee_Shop_Create_WebAPI_6_Tables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3ab2f4798ebcd87fd636b70b7fe3212c4fdc072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745dbe5940c66e33b1503d43bd18fe2b7654ce18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coffee_Shop_Create_WebAPI_6_Tables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coffee_Shop_Create_WebAPI_6_Tables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

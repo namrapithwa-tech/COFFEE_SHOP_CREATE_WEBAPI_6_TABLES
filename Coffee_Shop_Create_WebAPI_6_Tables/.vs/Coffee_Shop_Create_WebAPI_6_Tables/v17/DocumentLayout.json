@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\coustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\coustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\coffee_shop_create_webapi_6_tables\\coffee_shop_create_webapi_6_tables\\models\\billsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1930D71E-3ADE-4F89-91D5-806CB840AD6F}|Coffee_Shop_Create_WebAPI_6_Tables.csproj|solutionrelative:models\\billsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:55:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:52:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:50:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailsModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\OrderDetailsModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetailsModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\OrderDetailsModel.cs",
+              "RelativeToolTip": "Models\\OrderDetailsModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:48:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoustomerModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\CoustomerModel.cs",
+              "RelativeDocumentMoniker": "Models\\CoustomerModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\CoustomerModel.cs",
+              "RelativeToolTip": "Models\\CoustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:46:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Models\\CityModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\CityModel.cs",
+              "RelativeToolTip": "Models\\CityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:44:36.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillsModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\BillsModel.cs",
+              "RelativeDocumentMoniker": "Models\\BillsModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\COFFEE_SHOP_CREATE_WEBAPI_6_TABLES\\Coffee_Shop_Create_WebAPI_6_Tables\\Models\\BillsModel.cs",
+              "RelativeToolTip": "Models\\BillsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:42:07.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
